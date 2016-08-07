@@ -8,7 +8,7 @@ Make sure that you have an active Python installation on your computer. All thes
 In order to contribute, please fork your own copy of this repository. This way, your changes will not affect this repository. To contribute your own code, you can, after you fork this repository and make your changes, send me a message on github with the link of your repository, so I can test out your code, and send you a pull request if the code has no issues with it. Also, please provide a detailed explanation of what you've changed.
 
 ##Translaters.
-I don't know any other languages other than English and Spannish, and I don't know any other programming languages other than Python 2.7X. Please help by translating int your native languages, and also to other programming languages. Please remember , and send a message to your link to the fork.to fork before contributing!
+I don't know any other languages other than English and Spannish, and I don't know any other programming languages other than Python 2.7X. Please help by translating int your native languages, and also to other programming languages. Please remember to fork this repository so your changes don't affect this repository!
 
 ##Reporting issues/bugs
 You can use the github website to do this. Notes to myself: To be written, unsure of how to do this yet.
