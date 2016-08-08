@@ -1,10 +1,10 @@
 ﻿# Utilities-Terminal-Application-Bundle
 
-These are bundled ZIP packages that contain programs that most people
-would either have to pay for, like calculator software and other
-useful items. These are so called Terminal Applications because they
+This is a bundle  of Python scripts. It contains programs
+like calculator software and other
+ items. Games are also included. These are so called Terminal Applications because they
 are meant to be run in a terminal window or Python shell. Because of
-this, I can support people with disabilities without having to go
+this, these scripts/programs support people with screen readers without having to go
 through all of the hard work that is required when writing programs
 with a graphical user interface (GUI). If a blind person uses the
 command line or Linux terminal to open these scripts in Python, then
