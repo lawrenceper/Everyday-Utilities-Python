@@ -50,9 +50,6 @@ if b == a:
 print "Total guesses so far:"
 print g
 time.sleep(3.00)
-print "Time elapsed (in seconds:"
-print (self.i)
-time.sleep(3.00)
 
 #Start new level.
 print "Level 2. Please wait. Thinking..."
@@ -70,9 +67,6 @@ if b == a:
 print "Total guesses so far:"
 print g
 time.sleep(3.00)
-print "Time elapsed (in seconds:"
-print (self.i)
-time.sleep(3.00)
 
 #Start new level.
 print "Level 3. Please wait. Thinking..."
@@ -89,9 +83,6 @@ if b == a:
 
 print "Total guesses so far:"
 print g
-time.sleep(3.00)
-print "Time elapsed (in seconds:"
-print (self.i)
 time.sleep(3.00)
 
 #Prints a message.
@@ -113,9 +104,6 @@ if b == a:
 print "Total guesses so far:"
 print g
 time.sleep(3.00)
-print "Time elapsed (in seconds:"
-print (self.i)
-time.sleep(3.00)
 
 #Start new level.
 print "Level 5. Please wait. Thinking..."
@@ -132,9 +120,6 @@ if b == a:
 
 print "Total guesses so far:"
 print g
-time.sleep(3.00)
-print "Time elapsed (in seconds:"
-print (self.i)
 time.sleep(3.00)
 
 #Prints a message.
@@ -157,9 +142,6 @@ if b == a:
 print "Total guesses so far:"
 print g
 time.sleep(3.00)
-print "Time elapsed (in seconds:"
-print (self.i)
-time.sleep(3.00)
 
 #Start new level.
 print "Level 7. Please wait. Thinking..."
@@ -180,7 +162,5 @@ time.sleep(2.30)
 print "Total guesses:"
 print g
 time.sleep(3.00)
-print "Total time (in seconds:"
-print (self.i)
-time.sleep(3.00)
+
 print "Thanks for playing."
