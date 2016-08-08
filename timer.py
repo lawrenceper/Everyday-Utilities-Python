@@ -10,3 +10,5 @@ while x == 0:
 
     print (0)
     print("Timer Done.")
+    time.sleep(3.00)
+
