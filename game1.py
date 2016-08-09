@@ -23,6 +23,7 @@ class Timer(threading.Thread):
     #when timer stopps
     def finish(self):
         self.alive = False
+        return self.value
 
 
 timerun = Timer()
@@ -129,7 +130,7 @@ time.sleep(3.00)
 #Start new level.
 print "Level 6. Please wait. Thinking..."
 time.sleep(22.50)
-a = (random.randint (500))
+a = (random.randint (1,500))
 b = (input("I'm thinking of a number between 1 and 500. What number am I thinking of?"))
 while b != a:
     b = (input("Sorry, try again."))
@@ -164,3 +165,4 @@ print g
 time.sleep(3.00)
 
 print "Thanks for playing."
+print "You spent", timerun.finish(), "seconds."
