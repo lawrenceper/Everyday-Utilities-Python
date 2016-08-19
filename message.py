@@ -1,7 +1,7 @@
 import random
 import time
-print "Welcome to fake message. Please note, this program is intended for entertainment purposes only. You will not talk with any real person, nothing is also sent to any server. Phone numbers are also fake, do not try to call or text the numbers that are randomly generated. This message will disappear in 20 seconds..."
-time.sleep(20.00)
+print "Welcome to fake message. Please note, this program is intended for entertainment purposes only. You will not talk with any real person, nothing is also sent to any server. Phone numbers are also fake, do not try to call or text the numbers that are randomly generated. This message will disappear in 15 seconds..."
+time.sleep(15.00)
 x = 80
 while x > 0:
     print ""
