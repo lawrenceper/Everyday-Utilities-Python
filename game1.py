@@ -4,7 +4,7 @@ import time
 import random
 #resets the number of guesses (g) variable.
 g = 0
-#starts the timer. Variable to print (self.i)he timer is (t).
+#Timer settings.
 class Timer(threading.Thread):
     #Initial settings for timer
     def __init__(self, i=0.001):
