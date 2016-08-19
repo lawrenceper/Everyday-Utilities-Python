@@ -7,7 +7,7 @@ while x > 0:
     print ""
     x = x-1
 
-time.sleep(5.00)
+time.sleep(3.00)
 a = random.randint(0,9)
 b = random.randint(0,9)
 c = random.randint(0,9)
@@ -39,7 +39,7 @@ print "LOL. Me too. :-) "
 m()
 print "That is really interesting. How did you do that?"
 m()
-print "I want to learn computer programming too. Some day, when you have the chance, can you teach me?"
+print "I want to learn computer programming too. Some day, when you have time, can you teach me?"
 m()
 print "I think that yu might need to get a fast computer for that, which is something that I don't have. My PC has a 4 Megahurts processer and 2 bytes of RAM. It can connect to the Internet, but it takes over 200 years to load a webpage."
 m()
