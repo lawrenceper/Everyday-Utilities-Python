@@ -37,16 +37,15 @@ print "Totally Awesome."
 m()
 print "LOL. Me too. :-) "
 m()
-print "That is really interesting. How did you do that?"
+print "So what do yyou want to talk about?"
 m()
-print "I want to learn computer programming too. Some day, when you have time, can you teach me?"
+print "Cool."
 m()
-print "I think that yu might need to get a fast computer for that, which is something that I don't have. My PC has a 4 Megahurts processer and 2 bytes of RAM. It can connect to the Internet, but it takes over 200 years to load a webpage."
+print "Nice"
 m()
-print "I do not have the money for a new one. Mine is the 1960's brand. I have to stick cards into it, in order for it to read my code."
-m()
-print "Yes. But if I don't know programming, how can I use the computer? What can I do? It's powered off. When I power it on, it prints a whole lot of messages. Like over 1000 of them. It's a waist of paper. So what can I do?"
+print "Talk later> Need to go."
 x = 0
 while x == 0:
-    m()
-    print "No internet. Make sure that you are connected to the Internet, then try again."
+    #m()
+    #print "No internet. Make sure that you are connected to the Internet, then try again."
+    print "Other person disconnected from server."
