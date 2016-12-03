@@ -53,5 +53,4 @@ repository so your changes don't affect this repository!
 
 ##Reporting Issues/Bugs
 
-You can use the GitHub website to do this. Notes to myself: To be
-written, unsure of how to do this yet.
+You can use the GitHub website to do this.
