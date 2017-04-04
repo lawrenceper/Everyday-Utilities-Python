@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
+
 import time
-print "Stopwatch running. Press Control+C to stop the stopwatch. The stopwatch only counts in seconds."
+print "Cronómetro en funcionamiento. Pulse Control + C para detener el cronómetro. El cronómetro sólo cuenta en segundos."
 
 x = 0
 while x > -1:

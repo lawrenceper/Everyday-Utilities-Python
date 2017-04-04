@@ -1,5 +1,5 @@
 import time
-print("Welcome to Open Timer.")
+print("Welcome to Timer.")
 x = 0
 while x == 0:
     sec = input("Enter the number of seconds.")

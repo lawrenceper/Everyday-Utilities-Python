@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
+
 import time
-print "Welcome to the calculator."
+print "Bienvenido a la calculadora."
 x = 0
 while x == 0:
-
-    y = input ('Enter an expression. For example, type "12+24" to evaluate the expression 12 plus 24.')
+    y = input ('Introduzca una expresión. Por ejemplo, escriba "12 + 24" para evaluar la expresión 12 más 24.')
     print (y)
     time.sleep (3.00)
